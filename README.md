@@ -56,7 +56,7 @@ ls -la arquivos_teste
 
 Os arquivos utilizados na demonstração devem estar dentro da pasta `arquivos_teste/`.
 
-### 3. Executar a transformação simulada
+### 3. Executar a criptografia simulada
 
 ```bash
 python3 encrypt_simulado.py
@@ -73,7 +73,7 @@ dados.txt.simulado
 
 O arquivo original permanece intacto.
 
-### 4. Executar a recuperação simulada
+### 4. Executar a descriptografia
 
 Depois da etapa anterior, execute:
 
